@@ -1,7 +1,10 @@
-## Developed and tested on:
+## available stuff
 - Apache
 - MySQL
 - PHP 7.3
+- soap
+- git
+- libxml2-dev
 
 ## Docker Stuff
 
